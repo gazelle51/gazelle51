@@ -58,11 +58,11 @@ https://github.com/devicons/devicon/tree/master/icons
 
 <p align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gazelle51&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gazelle51&theme=dracula" />
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=gazelle51&show_icons=true&count_private=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazelle51&layout=compact&count_private=true&theme=dracula" />
   
   <br>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazelle51&layout=compact&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gazelle51&count_private=true&theme=dracula" />
   
 </p>
 
