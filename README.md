@@ -9,48 +9,50 @@
 ### 💻 Stack I Work With
 
 <p  align="center">
-  
-<!--
-GitHub
- Docker
-heroku
-IBM Cloud
-JavaScript
-Nodejs
-MongoDB
-MySQL
-Git
-YAML
-JSON
-Markdown
-Windows
-Linux
-MacOS
-https://github.com/devicons/devicon/tree/master/icons
--->
 
 <!-- Programming Languages -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+
+<!-- Frameworks -->
+<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25">
   
 <!-- Databases -->
 <br>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+  
+<!-- Text Formats -->
+<br>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
 
 <!-- Dev Tools -->
 <br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
 
-<!-- Frameworks -->
+<!-- Operating Systems -->
 <br>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Supabase&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white" height="25">
+
+<!-- Other -->
+<br>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/IBM%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/IBM%20Watson-BE95FF?style=for-the-badge&logo=ibmwatson&logoColor=white" height="25">
 
 </p>
 
