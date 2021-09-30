@@ -32,6 +32,7 @@
 <br>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/YAML-000000?style=for-the-badge" height="25">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/>
 
