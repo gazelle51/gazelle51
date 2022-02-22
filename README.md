@@ -2,9 +2,9 @@
 <h3 align="center">A developer from Australia :kangaroo: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazelle51&color=FD6F96" alt="gazelle51" /> </p>
 
-- 🔭 I’m currently working on a [PS5 bot](https://github.com/gazelle51/ps5-bot)
+<!-- - 🔭 I’m currently working on a [PS5 bot](https://github.com/gazelle51/ps5-bot) -->
 
-- 🌱 I’m currently learning **web scraping and automation**
+<!-- - 🌱 I’m currently learning **web scraping and automation** -->
 
 ### 💻 Stack I Work With
 
@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/IBM%20Cloudant-71CFF7?style=for-the-badge" height="25">
 <img src="https://img.shields.io/badge/IBM%20DB2-01962A?style=for-the-badge" height="25">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
   
 <!-- Text Formats -->
 <br>
@@ -80,13 +81,13 @@
 
 <!--
 
-For ICON With Text
+Use this base URL for Stack banners
     https://img.shields.io/badge/HereText-FF9800.svg?&style=for-the-badge&logo=HereIconName&logoColor=white
 
-For County Flag ICOn
-    https://www.flaticon.com/
-
-For ICON Idea
+Use this to find Stack icons and colour codes
     https://simpleicons.org/
+
+County flag icon
+    https://www.flaticon.com/
 
 -->
