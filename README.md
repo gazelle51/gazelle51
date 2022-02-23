@@ -2,9 +2,9 @@
 <h3 align="center">A developer from Australia :kangaroo: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazelle51&color=FD6F96" alt="gazelle51" /> </p>
 
-<!-- - 🔭 I’m currently working on a [PS5 bot](https://github.com/gazelle51/ps5-bot) -->
+- 🔭 I’m currently working on a [League Stats web app](https://github.com/gazelle51/LeagueStats-dupe)
 
-<!-- - 🌱 I’m currently learning **web scraping and automation** -->
+- 🌱 I’m currently learning **React, Next.js and Tailwind CSS**
 
 ### 💻 Stack I Work With
 
