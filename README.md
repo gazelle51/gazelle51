@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on a [League Stats web app](https://github.com/gazelle51/LeagueStats-dupe) -->
 
-- 🌱 I’m currently learning **Oh My Posh themes**
+<!-- - 🌱 I’m currently learning **Oh My Posh themes** -->
 
 ### 💻 Stack I Work With
 
