@@ -24,9 +24,9 @@
 
 <!-- LLMs / AI -->
 <br>
-<img src="https://img.shields.io/badge/LangChain-F89E3F?style=for-the-badge" height="25">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Claude-5A5A5A?style=for-the-badge" height="25"> 
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=clause&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/LLaMA-8A2BE2?style=for-the-badge" height="25">
 <img src="https://img.shields.io/badge/watsonx-BE95FF?style=for-the-badge&logo=watsonx&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/HuggingFace-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" height="25">
@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Poetry-DA0A0A?style=for-the-badge&logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" height="25">
 
 <!-- Cloud -->
 <br>
