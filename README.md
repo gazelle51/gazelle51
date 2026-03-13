@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm gazelle51</h1>
-<h3 align="center">A developer from Australia :kangaroo: </h3>
+<h3 align="center">An AI Engineer from Australia :kangaroo: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazelle51&color=FD6F96" alt="gazelle51" /> </p>
 
-<!-- - 🔭 I’m currently working on a [League Stats web app](https://github.com/gazelle51/LeagueStats-dupe) -->
+<!-- - 🔭 I’m currently working on [League Stats web app](https://github.com/gazelle51/LeagueStats-dupe) -->
 
 <!-- - 🌱 I’m currently learning **Oh My Posh themes** -->
 
@@ -17,7 +17,7 @@
 
 <!-- Frameworks -->
 <br>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge" height="25">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" height="25">
