@@ -21,6 +21,15 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" height="25">
+
+<!-- LLMs / AI -->
+<br>
+<img src="https://img.shields.io/badge/LangChain-F89E3F?style=for-the-badge" height="25">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Claude-5A5A5A?style=for-the-badge" height="25"> 
+<img src="https://img.shields.io/badge/LLaMA-8A2BE2?style=for-the-badge" height="25">
+<img src="https://img.shields.io/badge/watsonx-BE95FF?style=for-the-badge&logo=watsonx&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/HuggingFace-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" height="25">
   
 <!-- Databases -->
 <br>
@@ -36,16 +45,11 @@
 <img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Poetry-DA0A0A?style=for-the-badge&logo=python&logoColor=white" height="25">
 
-<!-- Other -->
+<!-- Cloud -->
 <br>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/IBM%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/watsonx-BE95FF?style=for-the-badge&logo=watsonx&logoColor=white" height="25">
-
-<!-- Operating Systems -->
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white" height="25">
 
 </p>
 
