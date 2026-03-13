@@ -26,7 +26,7 @@
 <br>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=clause&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/LLaMA-8A2BE2?style=for-the-badge" height="25">
 <img src="https://img.shields.io/badge/watsonx-BE95FF?style=for-the-badge&logo=watsonx&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/HuggingFace-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" height="25">
