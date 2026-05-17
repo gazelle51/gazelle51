@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm gazelle51</h1>
-<h3 align="center">An AI Engineer from Australia :kangaroo: </h3>
+<h1 align="center">gazelle51</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazelle51&color=FD6F96" alt="gazelle51" /> </p>
 
 <!-- - 🔭 I’m currently working on [League Stats web app](https://github.com/gazelle51/LeagueStats-dupe) -->
