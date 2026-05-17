@@ -52,14 +52,10 @@
 
 </p>
 
-### ⭐ Statistics and Languages
+### ⭐ Statistics
 
 <p align="center">
-  
-  <img height=165 src="https://github-readme-stats.vercel.app/api?username=gazelle51&show_icons=true&count_private=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazelle51&layout=compact&count_private=true&theme=dracula" />
-  
-  <br>  
+   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gazelle51&count_private=true&theme=dracula" />
   
 </p>
